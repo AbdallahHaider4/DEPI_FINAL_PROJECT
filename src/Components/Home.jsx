@@ -67,14 +67,14 @@ export default function Home() {
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">
               <img src={coll} alt="icons" />
-              <h5 class={`card-title mt-3 ${style.cardh}`}>A Curated Collection for Every Reader</h5>
+              <h5 class={`card-title mt-3 ${style.cardh}`}>A creative   Collection for Every Artist</h5>
               <p class="card-text">we take pride in offering a thoughtfully curated selection of books that cater to a wide range of tastes and interests. a fan of classic literature, modern bestsellers, or niche genres.</p>
             </div>
           </div>
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">
               <img src={lover} alt="icons" />
-              <h5 class={`card-title mt-3 ${style.cardh}`}>A Community of Book Lovers</h5>
+              <h5 class={`card-title mt-3 ${style.cardh}`}>A Community of  ArtWork Lovers</h5>
               <p class="card-text">we take pride in offering a thoughtfully curated selection of books that cater to a wide range of tastes and interests. a fan of classic literature, modern bestsellers, or niche genres.</p>
             </div>
           </div>
@@ -88,8 +88,8 @@ export default function Home() {
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">
               <img src={oth} alt="icons" />
-              <h5 class={`card-title mt-3 ${style.cardh}`}>Supporting Local Authors</h5>
-              <p class="card-text">Explore our dedicated section for books written by authors from our community, and discover new voices that might become your new favorites.</p>
+              <h5 class={`card-title mt-3 ${style.cardh}`}>Supporting Local Artists</h5>
+              <p class="card-text">Explore our dedicated section for hand paintings by authors from our community, and discover new creative art works that might become your new favorites.</p>
             </div>
           </div>
         </div>
