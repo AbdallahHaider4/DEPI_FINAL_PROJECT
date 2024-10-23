@@ -1,0 +1,250 @@
+{
+  "products": [
+    {
+      "id": "35",
+      "title": " The Last Hug",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": "60",
+      "discountPercentage": 12.96,
+      "rating": 4.7,
+      "stock": 68,
+      "category": "Tragedy",
+      "thumbnail": "https://i.pinimg.com/736x/1e/ea/d7/1eead7480382950f97823ec48c92245f.jpg"
+    },
+    {
+      "id": "37",
+      "title": " The Story Of The Stolen Land ",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": "55",
+      "discountPercentage": 12.96,
+      "rating": 4.7,
+      "stock": "1",
+      "category": "History",
+      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/bf/21/d9/bf21d929b36db757b8699f69619a4f77.jpg"
+    },
+    {
+      "id": "39",
+      "title": "Resisting From Child Hood",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": 48.5,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Bravery",
+      "thumbnail": " https://i.pinimg.com/enabled_lo/564x/31/b7/47/31b74723cf0800bf1b83ed05db7cb8a6.jpg "
+    },
+    {
+      "id": "50",
+      "title": "Palestinians, Root Of Resistance",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": 65.55,
+      "discountPercentage": 12.96,
+      "rating": 4.23,
+      "stock": 94,
+      "category": "Bravery",
+      "thumbnail": "https://i.pinimg.com/564x/e3/9d/29/e39d29b8ede3abfbeae553eaa29063eb.jpg"
+    },
+    {
+      "id": "51",
+      "title": "Palestine Before occuptation ",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": 86.33,
+      "discountPercentage": 12.96,
+      "rating": 4.5,
+      "stock": 94,
+      "category": "History",
+      "thumbnail": "https://i.pinimg.com/736x/79/b7/aa/79b7aa5bdfbd4f99d5f31e885a34b8fc.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Peace upon Palestine",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": 100.9,
+      "discountPercentage": 10.96,
+      "rating": 4.8,
+      "stock": 90,
+      "category": "Peace",
+      "thumbnail": "https://i.pinimg.com/736x/61/54/80/615480fa726551c77f2bcfdf4893f6e2.jpg"
+    },
+    {
+      "id": "41",
+      "title": "All for the sake of Palestine",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": 79.99,
+      "discountPercentage": 11.96,
+      "rating": 5.69,
+      "stock": 97,
+      "category": "Sacrifice",
+      "thumbnail": "https://i.pinimg.com/736x/53/15/2b/53152bdb65e49ecaab78b5b0351c8fd5.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Peace upon Palestine",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": 68,
+      "discountPercentage": 12.96,
+      "rating": 5.69,
+      "stock": 92,
+      "category": "Peace",
+      "thumbnail": "https://i.pinimg.com/564x/0a/eb/f9/0aebf9c4159734a5a6b329ac6eb0ec72.jpg"
+    },
+    {
+      "id": "43",
+      "title": "Olive Harvest Season in Nablus",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": 50,
+      "discountPercentage": 10.96,
+      "rating": 5.69,
+      "stock": 98,
+      "category": "History",
+      "thumbnail": "https://i.pinimg.com/564x/36/23/bf/3623bf25da3aedbb87c832e65dc2ead1.jpg"
+    },
+    {
+      "id": "44",
+      "title": "Olive Harvest Season in Nablus",
+      "description": "Reserved, controlled, and proper to a fault, Kai Young has neither the time nor inclination for chaos—and Isabella, with her purple hair and inappropriate jokes, is chaos personified.",
+      "price": "81",
+      "discountPercentage": "13.96",
+      "rating": 6.69,
+      "stock": 91,
+      "category": "History",
+      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/3a/1a/42/3a1a427902400b669fad9f5747e9e29a.jpg"
+    },
+    {
+      "id": "45",
+      "title": "beutiful scenery to AL Aqsa",
+      "description": "views and counting... From the author of Last One To Die. The students at Morton Academy are high-achievers, selected based .on academic excellence. So when a series of murders target the. school's brightest and best, the pressure is on. Someone is determined .to stop at nothing to clear their path to the top. But who??",
+      "price": 80.9,
+      "discountPercentage": 12.96,
+      "rating": 5.59,
+      "stock": 90,
+      "category": "Memories",
+      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/f2/c8/f2/f2c8f2bf4172b3897e76c7ce15cdd810.jpg"
+    },
+    {
+      "id": "46",
+      "title": "A Girl ..........",
+      "description": "Twenty years ago: One rainy night, Olivia Rutherford is driving three friends home when a figure in the road causes her to swerve and crash. Regaining consciousness, she finds herself alone in the car - her friends have vanished.",
+      "price": 54.94,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Tragedy",
+      "thumbnail": "https://i.pinimg.com/564x/fc/8e/53/fc8e53faca076cdf021d2e3495665ce4.jpg"
+    },
+    {
+      "id": "47",
+      "title": "Keffiyeh Resistance Symbol",
+      "description": "An unimaginable crime has been committed, and everyone’s looking for someone to blame. Her loved ones are under suspicion.",
+      "price": 54.9,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Reselience",
+      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/f7/68/79/f76879eae296486307b4252cd8d5d54c.jpg"
+    },
+    {
+      "id": "48",
+      "title": "One Day It Will Be Free Agian",
+      "description": "From Susan Dennard, the New York Times bestselling author of the Witchlands series, comes a haunting and high-octane contemporary fantasy about the magic it takes to face your fears in a nightmare-filled forest and the mettle required to face the secrets hiding in the dark corners of your own family.",
+      "price": "70.90",
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Hope",
+      "thumbnail": "https://i.pinimg.com/564x/c7/f4/91/c7f491e70a5000e793d0df61247a3c4c.jpg"
+    },
+    {
+      "id": "49",
+      "title": "Roo7 Al Roo7",
+      "description": "Just hours after humans are born, the gods take what little power we have. In return, they protect our borders from the vicious, merciless fae. The humans who manage to keep their power are known as the corrupt. And they are put to death.",
+      "price": 90.9,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Tragedy",
+      "thumbnail": "https://i.pinimg.com/564x/55/09/b0/5509b05ae4386fa01e308a877e0c850f.jpg"
+    }
+  ],
+  "orderItem": [],
+  "User": [
+    {
+      "id": "rewaa",
+      "name": "RewaaGaber",
+      "password": "123",
+      "email": "RewaaGaber@gmail.com",
+      "phone": "894745",
+      "country": "Egypt",
+      "address": "hello",
+      "gender": "female",
+      "role": "admin"
+    },
+    {
+      "id": "salma",
+      "name": "SalmaAssem",
+      "password": "1233",
+      "email": "SalmaAssem@gmail.com",
+      "phone": "894745",
+      "country": "india",
+      "address": "hello",
+      "gender": "female"
+    },
+    {
+      "id": "Haider",
+      "name": "AbdallahHaider",
+      "password": "1234",
+      "email": "SalmaAssem@gmail.com",
+      "phone": "894673245",
+      "country": "india",
+      "address": "hello",
+      "gender": "male"
+    },
+    {
+      "id": "nour",
+      "name": "nour",
+      "password": "1233",
+      "email": "nour@gmail.com",
+      "phone": "1029924804",
+      "country": "usa",
+      "address": "damitta",
+      "gender": "female"
+    },
+    {
+      "id": "Khoulod",
+      "name": "Khoulod",
+      "password": "Khoulod",
+      "email": "Khoulod@gmail.com",
+      "phone": "1029924804",
+      "country": "Egypt",
+      "address": "damitta",
+      "gender": "female"
+    },
+    {
+      "id": "Nadia",
+      "name": "Nadia",
+      "password": "Nadia",
+      "email": "Nadia@gmail.com",
+      "phone": "01029924804",
+      "country": "Egypt",
+      "address": "mansoura",
+      "gender": "female"
+    },
+    {
+      "id": "rola",
+      "name": "ROLA GABER",
+      "password": "123456",
+      "email": "rola.gaber460@gmail.com",
+      "phone": "01093664769",
+      "country": "india",
+      "address": "kfs",
+      "gender": "female"
+    },
+    {
+      "id": "SalmaAssem",
+      "password": "Sa123456789#",
+      "email": "SalmaAssem@gmail.com",
+      "phone": "894745",
+      "address": ""
+    }
+  ]
+}
