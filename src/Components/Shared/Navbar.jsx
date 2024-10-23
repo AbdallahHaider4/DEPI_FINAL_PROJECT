@@ -45,14 +45,14 @@ export default function Navbar({ isLogin, setIsLogin }) {
 
   return (
     <nav
-      className={`navbar navbar-expand-lg sticky-top top-0 w-100 ${scrolledDown ? style.scrolled : style.notScrolled}`}
+      className={`navbar navbar-expand-lg sticky-top top-0 w-100  ${scrolledDown ? style.scrolled : style.notScrolled}`}
     >
       <div className={`container-fluid px-5  justify-content-center`}>
-        <Link className="navbar-brand" to="/Home">
+        <Link className="navbar-brand object-fit-contain" to="/Home">
           <img
             src={logo}
             alt=""
-            width="70px"
+            width="100px"
             height="60px"
           />
         </Link>

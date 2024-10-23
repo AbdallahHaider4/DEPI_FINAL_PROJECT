@@ -16,7 +16,7 @@ export default function Home() {
   const topProducts = products?.slice(0, 3);
 
   return (
-    <div className={`${style.bkg } `}>
+    <div className={`${style.bkg} `}>
       <div className={`container ${style.imgcard}`}>
         <div className={`${style.parentt} col-md-5`}>
           <h1 className={`${style.title} text-uppercase`}>
@@ -50,29 +50,37 @@ export default function Home() {
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">
               <img src={coll} alt="icons" />
-              <h5 class={`card-title mt-3 ${style.cardh}`}>A creative   Collection for Every Artist</h5>
-              <p class="card-text">we take pride in offering a thoughtfully curated selection of books that cater to a wide range of tastes and interests. a fan of classic literature, modern bestsellers, or niche genres.</p>
+              <h5 class={`card-title mt-3 ${style.cardh}`}>A creative Collection for Every Artist</h5>
+              <p class="card-text">lorem ipsum dolor sit amet consectetur adipisicing elit
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
             </div>
           </div>
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">
               <img src={lover} alt="icons" />
-              <h5 class={`card-title mt-3 ${style.cardh}`}>A Community of  ArtWork Lovers</h5>
-              <p class="card-text">we take pride in offering a thoughtfully curated selection of books that cater to a wide range of tastes and interests. a fan of classic literature, modern bestsellers, or niche genres.</p>
+              <h5 class={`card-title mt-3 ${style.cardh}`}>A Community of Art Work Lovers</h5>
+              <p class="card-text">lorem ipsum dolor sit amet consectetur adipisicing elit
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
             </div>
           </div>
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">
               <img src={quality} alt="icons" />
               <h5 class={`card-title mt-3 ${style.cardh}`}>A Commitment to Quality</h5>
-              <p class="card-text">From the quality of the books we stock to the level of service we provide, we are dedicated to ensuring that every visit to our store is a pleasant and enriching experience.</p>
+              <p class="card-text">lorem ipsum dolor sit amet consectetur adipisicing elit
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
             </div>
           </div>
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">
               <img src={oth} alt="icons" />
               <h5 class={`card-title mt-3 ${style.cardh}`}>Supporting Local Artists</h5>
-              <p class="card-text">Explore our dedicated section for hand paintings by authors from our community, and discover new creative art works that might become your new favorites.</p>
+              <p class="card-text">lorem ipsum dolor sit amet consectetur adipisicing elit
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
             </div>
           </div>
         </div>
