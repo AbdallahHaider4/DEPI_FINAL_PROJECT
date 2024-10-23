@@ -1,9 +1,7 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import style from "../Styles/home.module.css";
-import main from "../Styles/shop.module.css";
 import header from "../Images/Plogo.jpeg"
-import image2 from "../Images/shelf2.png";
 import quality from "../Images/quality.png";
 import lover from "../Images/book-lover.png";
 import coll from "../Images/coll.png";
@@ -18,7 +16,7 @@ export default function Home() {
   const topProducts = products?.slice(0, 3);
 
   return (
-    <div className={style.bkg}>
+    <div className={`${style.bkg } `}>
       <div className={`container ${style.imgcard}`}>
         <div className={`${style.parentt} col-md-5`}>
           <h1 className={`${style.title} text-uppercase`}>
@@ -30,24 +28,9 @@ export default function Home() {
           <img src={header} className={`${style.imgg}`} alt="Palestine" />
         </div>
       </div>
-      <div className={style.about}>
-        <img src={image2} alt="A decorative shelf with books" class='col-md-7' />
-        <div className={style.text} class='col-md-5 contianer'>
-          <h3 className={style.h3text}>
-            Who Are We?
-          </h3>
-          <p className={style.textp}>
-            we are the voice of a people whose stories of pain,
-            resilience, and hope live on through art. Every piece in our gallery honors the lives lost in Palestine, preserving their memory and their struggle for freedom. Our art is not just a reflection of beauty—it is a testament to a history marked by sacrifice and a tribute to those who have given everything for the dream of peace. We are here to remember, to inspire, and to keep their legacy alive
-          </p>
-          <div className=" text-center">
-            <Link className={style.link3} to="/Shop">Shop Now</Link>
-          </div>
-        </div>
-      </div>
-      <div className={`container m-auto p-5 mb-5`}>
+      <div className={`container m-auto p-5 mb-5 mt-5`}>
         <div className={`${style.prdct}`}>
-          <h1 className={`text-center mb-5`}>Our Products</h1>
+          <h1 className={`text-center mb-5 ${style.whychooseustext}`}>Our Products</h1>
           <Link className={`${style.link2}`} to="/Shop">Show More</Link>
         </div>
         <div className="row g-4 justify-content-between  object-fit-lg-cover">
@@ -62,7 +45,7 @@ export default function Home() {
         </div>
       </div>
       <div className={`${style.whychooseus} py-5`}>
-        <h1 className={`text-center mb-2`}>Why Choose Us?</h1>
+        <h1 className={`text-center mb-2 ${style.whychooseustext}`}>Why Choose Us?</h1>
         <div className={`card-deck container m-auto p-5 ${style.cardds}`}>
           <div className={`card ${style.cardcont}`}>
             <div class="card-body py-4 text-center">

@@ -167,6 +167,34 @@ export default function Contactus() {
           <div className={`${styles.card} py-4`}>
             <div className={styles.content}>
               <div className={styles.teamImg}>
+                <img src={me} alt="Rewaa Gaber" />
+              </div>
+              <div className={styles.content}>
+                <h4>Rewaa Gaber</h4>
+                <h5>Front-End</h5>
+              </div>
+              <div className={styles.social}>
+                <a href="https://www.facebook.com/" target="_blank">
+                  <FontAwesomeIcon icon={faFacebook} />
+                </a>
+                <a href="https://x.com/?logout=1723917569208" target="_blank">
+                  <FontAwesomeIcon icon={faTwitter} />
+                </a>
+                <a
+                  href="https://www.linkedin.com/in/rewaa-arafa-8134b0275/"
+                  target="_blank"
+                >
+                  <FontAwesomeIcon icon={faLinkedin} />
+                </a>{" "}
+                <a href="https://github.com/RewaaGaber" target="_blank">
+                  <FontAwesomeIcon icon={faGithub} />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className={`${styles.card} py-4`}>
+            <div className={styles.content}>
+              <div className={styles.teamImg}>
                 <img src={khokha} alt="Khoulod Khaled" />
               </div>
               <div className={styles.content}>
@@ -191,6 +219,7 @@ export default function Contactus() {
           </div>
         </div>
       </div>{" "}
+
       {/* about website */}
       <div className="mb-5" style={{ backgroundColor: '#f3f3f3', paddingBottom: '50px' }}>
         <div className={` ${styles.header}`}>
@@ -210,7 +239,7 @@ export default function Contactus() {
               gutterBottom
               variant="h5"
               component="div"
-              style={{ color: "#d18ef4", fontWeight: "bold" }}
+              style={{ color: "#000", fontWeight: "bold" }}
             >
               Palestinian Art Gallery
             </Typography>
@@ -226,9 +255,9 @@ export default function Contactus() {
               size="medium"
               sx={{
                 color: "white",
-                backgroundColor: "#d18ef4",
+                backgroundColor: "#174e23",
                 "&:hover": {
-                  backgroundColor: "#2d4dda4a;",
+                  backgroundColor: "#9f2929;",
                   transform: "scale(1.05)",
                 },
                 transition: "background-color 0.3s ease, transform 0.3s ease",
@@ -301,7 +330,7 @@ export default function Contactus() {
                     type="submit"
                     className="btn d-block ms-auto"
                     style={{
-                      backgroundColor: "#d18ef4",
+                      backgroundColor: "#174e23",
                       color: "white",
 
                     }}

@@ -69,7 +69,7 @@ function AddProducts() {
         <div className="row justify-content-center">
           <div className="col-12 col-md-8 col-lg-6">
             <div className="p-4 shadow-sm bg-white rounded-3">
-              <h1 className="text-center h2 text-uppercase text-main fw-semibold">
+              <h1 className="text-center h2 text-uppercase text-main fw-semibold" style={{color:"#000 !important"}}>
                 Add Product
               </h1>
 
@@ -190,11 +190,11 @@ function AddProducts() {
                       "background-color 0.3s ease, transform 0.3s ease",
                   }}
                   onMouseEnter={(e) => {
-                    e.currentTarget.style.backgroundColor = "#b06bd4";
+                    e.currentTarget.style.backgroundColor = "#9f2929";
                     e.currentTarget.style.transform = "scale(1.05)";
                   }}
                   onMouseLeave={(e) => {
-                    e.currentTarget.style.backgroundColor = "#d18ef4";
+                    e.currentTarget.style.backgroundColor = "#174e23";
                     e.currentTarget.style.transform = "scale(1)";
                   }}
                 >

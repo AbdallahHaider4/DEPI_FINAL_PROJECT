@@ -183,11 +183,11 @@ function EditProducts() {
     transition: "background-color 0.3s ease, transform 0.3s ease",
   }}
   onMouseEnter={(e) => {
-    e.currentTarget.style.backgroundColor = "#b06bd4";
+    e.currentTarget.style.backgroundColor = "#9f2929";
     e.currentTarget.style.transform = "scale(1.05)";
   }}
   onMouseLeave={(e) => {
-    e.currentTarget.style.backgroundColor = "#d18ef4";
+    e.currentTarget.style.backgroundColor = "#174e23";
     e.currentTarget.style.transform = "scale(1)";
   }}
 >

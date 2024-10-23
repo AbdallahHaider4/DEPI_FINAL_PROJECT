@@ -12,13 +12,13 @@
 
 .parentt {
   padding-top: 250px;
-  flex: 40%;
+  flex: 60%;
 }
 
 .title {
   font-weight: bold;
   font-size: 60px;
-  color:  #1f2478;
+  color:  #000;
   line-height: 1.3;
 }
 
@@ -26,12 +26,13 @@
   font-size: 18px;
   color:rgb(148, 147, 147);
   text-align: left;
+  
 }
 .dimgg{
   flex: 60%;
 }
 .imgg{
-  width:100%;
+  width:90%;
   height: 85vh;
   object-fit: cover;
 }
@@ -55,7 +56,7 @@
   display: flex;
   align-content: center;
   justify-content: space-between;
-  color: #1f2478 !important;
+  color: #000 !important;
 }
 
 .link3 {
@@ -68,7 +69,7 @@
   margin-top: 20px;
   padding: 13px 17px;
   border: 0;
-  background-color:#d18ef4;
+  background-color:#236522;
  
   font-size: 20px;
   font-weight: bold;
@@ -83,7 +84,7 @@
 
 .link2 {
   text-decoration: none;
-  color: #1f2478;
+  color: #000;
   margin-top: 5px;
   font-size: 20px;
   font-weight: bold;
@@ -103,7 +104,7 @@
 
 .h3text {
   font-size: 2.5rem;
-  color: #1f2478;
+  color: #000;
   font-weight: 600;
   text-align: center;
 }
@@ -116,11 +117,17 @@
 }
 .whychooseus{
   background-color: #f3f3f3 ;
+
 }
+
+.whychooseustext{
+  color: #000 !important;
+}
+
 .cardds {
   display: flex;
   justify-content: space-around;
-  color: #1f2478;
+  color: #000;
 }
 .cardh{
   font-weight: bold;
@@ -128,7 +135,7 @@
 .cardcont {
   width: 22%;
   border-radius: 10px;
-  color:#1f2478;
+  color:#000;
   font-size: 1.1rem;
  
 }

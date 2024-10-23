@@ -11,6 +11,7 @@
   align-items: center;
   padding: 0px;
   animation: fadeInSlideUp 3s ease-in-out;
+  
 
 }
 
@@ -59,7 +60,7 @@
 
 .content {
   text-align: center;
-  color:#1f2478;
+  color:#000;
 }
 
 .social {
@@ -68,7 +69,7 @@
 }
 
 .social a {
-  color:#1f2478;
+  color:#000;
   margin: 0 10px;
   font-size: 22px;
   text-decoration: none;
@@ -76,7 +77,7 @@
 }
 
 .social a:hover {
-  color:#d18ef4; /* Example: LinkedIn blue on hover */
+  color:#720000; /* Example: LinkedIn blue on hover */
 }
 
 h4 {
@@ -87,7 +88,7 @@ h4 {
 
 h5 {
   font-size: 1em;
-  color:#1f2478;
+  color:#000;
 }
 
 .header{padding-top: 20px;
@@ -97,7 +98,7 @@ h5 {
   /* background-color: aquamarine; */
   align-items: center;
 }
-card .2{
+.card2{
   background-color:#f3f3f3 ;
 }
 @keyframes fadeInSlideUp {
@@ -112,7 +113,7 @@ card .2{
 }
 
 h1  {
-  color: #1f2478;
+  color: #000;
   font-weight: 700;
 
 
