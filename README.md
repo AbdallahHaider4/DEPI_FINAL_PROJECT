@@ -53,11 +53,13 @@ Clone this repo on your local machine.
 Run these commands on the project directory respectively
 
 - npm install
-- npm run json-server
+- npx json-server --watch data.json --port 5000
 - npm start
 ## Team Worked on this project
 
 - Rewaa Gaber
-
 - Salma Assem
+- Ahmed Naeim
+- Youmna Amer
+
 
